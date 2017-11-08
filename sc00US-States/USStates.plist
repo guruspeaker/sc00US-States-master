@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>stateName</key>
+	<array>
+		<string>Alabama</string>
+		<string>Alaska</string>
+		<string>Arizona</string>
+		<string>Arkansas</string>
+		<string>California</string>
+		<string>Colorado</string>
+		<string>Connecticut</string>
+		<string>Delaware</string>
+		<string>Florida</string>
+		<string>Georgia</string>
+		<string>Hawaii</string>
+		<string>Idaho</string>
+		<string>Illinois</string>
+		<string>Indiana</string>
+		<string>Iowa</string>
+		<string>Kansas</string>
+		<string>Kentucky</string>
+		<string>Louisiana</string>
+		<string>Maine</string>
+		<string>Maryland</string>
+		<string>Massachusetts</string>
+		<string>Michigan</string>
+		<string>Minnesota</string>
+		<string>Mississippi</string>
+		<string>Missouri</string>
+		<string>Montana</string>
+		<string>Nebraska</string>
+		<string>Nevada</string>
+		<string>New Hampshire</string>
+		<string>New Jersey</string>
+		<string>New Mexico</string>
+		<string>New York</string>
+		<string>North Carolina</string>
+		<string>North Dakota</string>
+		<string>Ohio</string>
+		<string>Oklahoma</string>
+		<string>Oregon</string>
+		<string>Pennsylvania</string>
+		<string>Rhode Island</string>
+		<string>South Carolina</string>
+		<string>South Dakota</string>
+		<string>Tennessee</string>
+		<string>Texas</string>
+		<string>Utah</string>
+		<string>Vermont</string>
+		<string>Virginia</string>
+		<string>Washington</string>
+		<string>West Virginia</string>
+		<string>Wisconsin</string>
+		<string>Wyoming</string>
+	</array>
+	<key>YearJoinedUnion</key>
+	<array>
+        <string>1819</string>
+        <string>1959</string>
+        <string>1912</string>
+        <string>1836</string>
+        <string>1850</string>
+        <string>1876</string>
+        <string>1788</string>
+        <string>1787</string>
+        <string>1845</string>
+        <string>1788</string>
+        <string>1959</string>
+        <string>1890</string>
+        <string>1818</string>
+        <string>1816</string>
+        <string>1846</string>
+        <string>1861</string>
+        <string>1792</string>
+        <string>1812</string>
+        <string>1820</string>
+        <string>1788</string>
+        <string>1788</string>
+        <string>1837</string>
+        <string>1858</string>
+        <string>1817</string>
+        <string>1821</string>
+        <string>1889</string>
+        <string>1867</string>
+        <string>1864</string>
+        <string>1788</string>
+        <string>1787</string>
+        <string>1912</string>
+        <string>1788</string>
+        <string>1789</string>
+        <string>1889</string>
+        <string>1803</string>
+        <string>1907</string>
+        <string>1859</string>
+        <string>1787</string>
+        <string>1790</string>
+        <string>1788</string>
+        <string>1889</string>
+        <string>1796</string>
+        <string>1845</string>
+        <string>1896</string>
+        <string>1791</string>
+        <string>1788</string>
+        <string>1889</string>
+        <string>1863</string>
+        <string>1848</string>
+        <string>1890</string>
+		
+	</array>
+	<key>flagLGPath</key>
+	<array>
+		<string>Flags/Large/alabama-flag-medium</string>
+		<string>Flags/Large/alaska-flag-medium</string>
+		<string>Flags/Large/arizona-flag-medium</string>
+		<string>Flags/Large/arkansas-flag-medium</string>
+		<string>Flags/Large/california-flag-medium</string>
+		<string>Flags/Large/colorado-flag-medium</string>
+		<string>Flags/Large/connecticut-flag-medium</string>
+		<string>Flags/Large/delaware-flag-medium</string>
+		<string>Flags/Large/florida-flag-medium</string>
+		<string>Flags/Large/georgia-flag-medium</string>
+		<string>Flags/Large/hawaii-flag-medium</string>
+		<string>Flags/Large/idaho-flag-medium</string>
+		<string>Flags/Large/illinois-flag-medium</string>
+		<string>Flags/Large/indiana-flag-medium</string>
+		<string>Flags/Large/iowa-flag-medium</string>
+		<string>Flags/Large/kansas-flag-medium</string>
+		<string>Flags/Large/kentucky-flag-medium</string>
+		<string>Flags/Large/louisiana-flag-medium</string>
+		<string>Flags/Large/maine-flag-medium</string>
+		<string>Flags/Large/maryland-flag-medium</string>
+		<string>Flags/Large/massachusetts-flag-medium</string>
+		<string>Flags/Large/michigan-flag-medium</string>
+		<string>Flags/Large/minnesota-flag-medium</string>
+		<string>Flags/Large/mississippi-flag-medium</string>
+		<string>Flags/Large/missouri-flag-medium</string>
+		<string>Flags/Large/montana-flag-medium</string>
+		<string>Flags/Large/nebraska-flag-medium</string>
+		<string>Flags/Large/nevada-flag-medium</string>
+		<string>Flags/Large/new hampshire-flag-medium</string>
+		<string>Flags/Large/new jersey-flag-medium</string>
+		<string>Flags/Large/new mexico-flag-medium</string>
+		<string>Flags/Large/new york-flag-medium</string>
+		<string>Flags/Large/north carolina-flag-medium</string>
+		<string>Flags/Large/north dakota-flag-medium</string>
+		<string>Flags/Large/ohio-flag-medium</string>
+		<string>Flags/Large/oklahoma-flag-medium</string>
+		<string>Flags/Large/oregon-flag-medium</string>
+		<string>Flags/Large/pennsylvania-flag-medium</string>
+		<string>Flags/Large/rhode island-flag-medium</string>
+		<string>Flags/Large/south carolina-flag-medium</string>
+		<string>Flags/Large/south dakota-flag-medium</string>
+		<string>Flags/Large/tennessee-flag-medium</string>
+		<string>Flags/Large/texas-flag-medium</string>
+		<string>Flags/Large/utah-flag-medium</string>
+		<string>Flags/Large/vermont-flag-medium</string>
+		<string>Flags/Large/virginia-flag-medium</string>
+		<string>Flags/Large/washington-flag-medium</string>
+		<string>Flags/Large/west virginia-flag-medium</string>
+		<string>Flags/Large/wisconsin-flag-medium</string>
+		<string>Flags/Large/wyoming-flag-medium</string>
+	</array>
+	<key>flagSMPath</key>
+	<array>
+		<string>Flags/Small/alabama-flag-small</string>
+		<string>Flags/Small/alaska-flag-small</string>
+		<string>Flags/Small/arizona-flag-small</string>
+		<string>Flags/Small/arkansas-flag-small</string>
+		<string>Flags/Small/california-flag-small</string>
+		<string>Flags/Small/colorado-flag-small</string>
+		<string>Flags/Small/connecticut-flag-small</string>
+		<string>Flags/Small/delaware-flag-small</string>
+		<string>Flags/Small/florida-flag-small</string>
+		<string>Flags/Small/georgia-flag-small</string>
+		<string>Flags/Small/hawaii-flag-small</string>
+		<string>Flags/Small/idaho-flag-small</string>
+		<string>Flags/Small/illinois-flag-small</string>
+		<string>Flags/Small/indiana-flag-small</string>
+		<string>Flags/Small/iowa-flag-small</string>
+		<string>Flags/Small/kansas-flag-small</string>
+		<string>Flags/Small/kentucky-flag-small</string>
+		<string>Flags/Small/louisiana-flag-small</string>
+		<string>Flags/Small/maine-flag-small</string>
+		<string>Flags/Small/maryland-flag-small</string>
+		<string>Flags/Small/massachusetts-flag-small</string>
+		<string>Flags/Small/michigan-flag-small</string>
+		<string>Flags/Small/minnesota-flag-small</string>
+		<string>Flags/Small/mississippi-flag-small</string>
+		<string>Flags/Small/missouri-flag-small</string>
+		<string>Flags/Small/montana-flag-small</string>
+		<string>Flags/Small/nebraska-flag-small</string>
+		<string>Flags/Small/nevada-flag-small</string>
+		<string>Flags/Small/new hampshire-flag-small</string>
+		<string>Flags/Small/new jersey-flag-small</string>
+		<string>Flags/Small/new mexico-flag-small</string>
+		<string>Flags/Small/new york-flag-small</string>
+		<string>Flags/Small/north carolina-flag-small</string>
+		<string>Flags/Small/north dakota-flag-small</string>
+		<string>Flags/Small/ohio-flag-small</string>
+		<string>Flags/Small/oklahoma-flag-small</string>
+		<string>Flags/Small/oregon-flag-small</string>
+		<string>Flags/Small/pennsylvania-flag-small</string>
+		<string>Flags/Small/rhode island-flag-small</string>
+		<string>Flags/Small/south carolina-flag-small</string>
+		<string>Flags/Small/south dakota-flag-small</string>
+		<string>Flags/Small/tennessee-flag-small</string>
+		<string>Flags/Small/texas-flag-small</string>
+		<string>Flags/Small/utah-flag-small</string>
+		<string>Flags/Small/vermont-flag-small</string>
+		<string>Flags/Small/virginia-flag-small</string>
+		<string>Flags/Small/washington-flag-small</string>
+		<string>Flags/Small/west virginia-flag-small</string>
+		<string>Flags/Small/wisconsin-flag-small</string>
+		<string>Flags/Small/wyoming-flag-small</string>
+	</array>
+	<key>motto</key>
+	<array>
+		<string>Audemus jura nostra defendere (We dare defend our rights!)</string>
+		<string>North to the future</string>
+		<string>Ditat Deus (God enriches)</string>
+		<string>Regnat populus (The people rule)</string>
+		<string>Eureka (Εὕρηκα) (I have found it)</string>
+		<string>Nil sine numine (Nothing without providence.)</string>
+		<string>Qui transtulit sustinet (He who transplanted sustains)</string>
+		<string>Liberty and Independence</string>
+		<string>In God We Trust</string>
+		<string>Wisdom, Justice, Moderation</string>
+		<string>Ua mau ke ea o ka ʻāina i ka pono (The life of the land is perpetuated in righteousness.)</string>
+		<string>Esto perpetua (Let it be perpetual)</string>
+		<string>State sovereignty, national union</string>
+		<string>The Crossroads of America</string>
+		<string>Our liberties we prize and our rights we will maintain</string>
+		<string>Ad astra per aspera (To the stars through difficulties)</string>
+		<string>United we stand, divided we fall (Let us be grateful to God)</string>
+		<string>Union, justice, confidence</string>
+		<string>Dirigo (I lead)</string>
+		<string>Fatti maschii, parole femine (Manly deeds, womanly words)</string>
+		<string>Ense petit placidam sub libertate quietem (By the sword we seek peace, but peace only under liberty)</string>
+		<string>Si quaeris peninsulam amoenam circumspice (If you seek a pleasant peninsula, look about you)</string>
+		<string>L&apos;étoile du Nord (The star of the North)</string>
+		<string>Virtute et armis (By valor and arms)</string>
+		<string>Salus populi suprema lex esto (Let the welfare of the people be the supreme law)</string>
+		<string>Oro y plata (Gold and silver)</string>
+		<string>Equality before the law</string>
+		<string>All For Our Country</string>
+		<string>Live Free or Die</string>
+		<string>Liberty and prosperity</string>
+		<string>Crescit eundo (It grows as it goes)</string>
+		<string>Excelsior (Ever upward)</string>
+		<string>Esse quam videri (To be, rather than to seem)</string>
+		<string>Liberty and union, now and forever, one and inseparable (One sows for the benefit of another age)</string>
+		<string>With God, all things are possible</string>
+		<string>Labor omnia vincit (Labor conquers all things)</string>
+		<string>Alis volat propriis (She flies with her own wings)</string>
+		<string>Virtue, liberty, and independence</string>
+		<string>Hope</string>
+		<string>Dum spiro spero (While I breathe, I hope)</string>
+		<string>Under God the people rule</string>
+		<string>Agriculture and Commerce</string>
+		<string>Friendship</string>
+		<string>Industry</string>
+		<string>Freedom and Unity (May the fourteenth star shine bright)</string>
+		<string>Sic semper tyrannis (Thus always to tyrants)</string>
+		<string>Al-ki (By and by)</string>
+		<string>Montani semper liberi (Mountaineers are always free)</string>
+		<string>Forward</string>
+		<string>Equal Rights</string>
+	</array>
+	<key>capitalCity</key>
+	<array>
+		<string>Montgomery</string>
+		<string>Juneau</string>
+		<string>Phoenix</string>
+		<string>Little Rock</string>
+		<string>Sacramento</string>
+		<string>Denver</string>
+		<string>Hartford</string>
+		<string>Dover</string>
+		<string>Tallahassee</string>
+		<string>Atlanta</string>
+		<string>Honolulu</string>
+		<string>Boise</string>
+		<string>Springfield</string>
+		<string>Indianapolis</string>
+		<string>Des Moines</string>
+		<string>Topeka</string>
+		<string>Frankfort</string>
+		<string>Baton Rouge</string>
+		<string>Augusta</string>
+		<string>Annapolis</string>
+		<string>Boston</string>
+		<string>Lansing</string>
+		<string>Saint Paul</string>
+		<string>Jackson</string>
+		<string>Jefferson City</string>
+		<string>Helena</string>
+		<string>Lincoln</string>
+		<string>Carson City</string>
+		<string>Concord</string>
+		<string>Trenton</string>
+		<string>Santa Fe</string>
+		<string>Albany</string>
+		<string>Raleigh</string>
+		<string>Bismarck</string>
+		<string>Columbus</string>
+		<string>Oklahoma City</string>
+		<string>Salem</string>
+		<string>Harrisburg</string>
+		<string>Providence</string>
+		<string>Columbia</string>
+		<string>Pierre</string>
+		<string>Nashville</string>
+		<string>Austin</string>
+		<string>Salt Lake City</string>
+		<string>Montpelier</string>
+		<string>Richmond</string>
+		<string>Olympia</string>
+		<string>Charleston</string>
+		<string>Madison</string>
+		<string>Cheyenne</string>
+	</array>
+	<key>Population</key>
+	<array>
+		<integer>4863300</integer>
+		<integer>741894</integer>
+		<integer>6931071</integer>
+		<integer>2988248</integer>
+		<integer>39250017</integer>
+		<integer>5540545</integer>
+		<integer>3576452</integer>
+		<integer>952065</integer>
+		<integer>20612439</integer>
+		<integer>10310371</integer>
+		<integer>1428557</integer>
+		<integer>1683140</integer>
+		<integer>12801539</integer>
+		<integer>6633053</integer>
+		<integer>3134693</integer>
+		<integer>2907289</integer>
+		<integer>4436974</integer>
+		<integer>4681666</integer>
+		<integer>1331479</integer>
+		<integer>6016447</integer>
+		<integer>6811779</integer>
+		<integer>9928300</integer>
+		<integer>5519952</integer>
+		<integer>2988726</integer>
+		<integer>6093000</integer>
+		<integer>1042520</integer>
+		<integer>1907116</integer>
+		<integer>2940058</integer>
+		<integer>1334795</integer>
+		<integer>8944469</integer>
+		<integer>2081015</integer>
+		<integer>19745289</integer>
+		<integer>10146788</integer>
+		<integer>757952</integer>
+		<integer>11614373</integer>
+		<integer>3923561</integer>
+		<integer>4093465</integer>
+		<integer>12784227</integer>
+		<integer>1056426</integer>
+		<integer>4961119</integer>
+		<integer>865454</integer>
+		<integer>6651194</integer>
+		<integer>27862596</integer>
+		<integer>3051217</integer>
+		<integer>624594</integer>
+		<integer>8411808</integer>
+		<integer>7288000</integer>
+		<integer>1831102</integer>
+		<integer>5778708</integer>
+		<integer>585501</integer>
+	</array>
+</dict>
+</plist>
