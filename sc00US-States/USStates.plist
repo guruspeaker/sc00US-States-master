@@ -57,57 +57,56 @@
 	</array>
 	<key>YearJoinedUnion</key>
 	<array>
-        <string>1819</string>
-        <string>1959</string>
-        <string>1912</string>
-        <string>1836</string>
-        <string>1850</string>
-        <string>1876</string>
-        <string>1788</string>
-        <string>1787</string>
-        <string>1845</string>
-        <string>1788</string>
-        <string>1959</string>
-        <string>1890</string>
-        <string>1818</string>
-        <string>1816</string>
-        <string>1846</string>
-        <string>1861</string>
-        <string>1792</string>
-        <string>1812</string>
-        <string>1820</string>
-        <string>1788</string>
-        <string>1788</string>
-        <string>1837</string>
-        <string>1858</string>
-        <string>1817</string>
-        <string>1821</string>
-        <string>1889</string>
-        <string>1867</string>
-        <string>1864</string>
-        <string>1788</string>
-        <string>1787</string>
-        <string>1912</string>
-        <string>1788</string>
-        <string>1789</string>
-        <string>1889</string>
-        <string>1803</string>
-        <string>1907</string>
-        <string>1859</string>
-        <string>1787</string>
-        <string>1790</string>
-        <string>1788</string>
-        <string>1889</string>
-        <string>1796</string>
-        <string>1845</string>
-        <string>1896</string>
-        <string>1791</string>
-        <string>1788</string>
-        <string>1889</string>
-        <string>1863</string>
-        <string>1848</string>
-        <string>1890</string>
-		
+		<string>1819</string>
+		<string>1959</string>
+		<string>1912</string>
+		<string>1836</string>
+		<string>1850</string>
+		<string>1876</string>
+		<string>1788</string>
+		<string>1787</string>
+		<string>1845</string>
+		<string>1788</string>
+		<string>1959</string>
+		<string>1890</string>
+		<string>1818</string>
+		<string>1816</string>
+		<string>1846</string>
+		<string>1861</string>
+		<string>1792</string>
+		<string>1812</string>
+		<string>1820</string>
+		<string>1788</string>
+		<string>1788</string>
+		<string>1837</string>
+		<string>1858</string>
+		<string>1817</string>
+		<string>1821</string>
+		<string>1889</string>
+		<string>1867</string>
+		<string>1864</string>
+		<string>1788</string>
+		<string>1787</string>
+		<string>1912</string>
+		<string>1788</string>
+		<string>1789</string>
+		<string>1889</string>
+		<string>1803</string>
+		<string>1907</string>
+		<string>1859</string>
+		<string>1787</string>
+		<string>1790</string>
+		<string>1788</string>
+		<string>1889</string>
+		<string>1796</string>
+		<string>1845</string>
+		<string>1896</string>
+		<string>1791</string>
+		<string>1788</string>
+		<string>1889</string>
+		<string>1863</string>
+		<string>1848</string>
+		<string>1890</string>
 	</array>
 	<key>flagLGPath</key>
 	<array>
@@ -139,26 +138,26 @@
 		<string>Flags/Large/montana-flag-medium</string>
 		<string>Flags/Large/nebraska-flag-medium</string>
 		<string>Flags/Large/nevada-flag-medium</string>
-		<string>Flags/Large/new hampshire-flag-medium</string>
-		<string>Flags/Large/new jersey-flag-medium</string>
-		<string>Flags/Large/new mexico-flag-medium</string>
-		<string>Flags/Large/new york-flag-medium</string>
-		<string>Flags/Large/north carolina-flag-medium</string>
-		<string>Flags/Large/north dakota-flag-medium</string>
+		<string>Flags/Large/new-hampshire-flag-medium</string>
+		<string>Flags/Large/new-jersey-flag-medium</string>
+		<string>Flags/Large/new-mexico-flag-medium</string>
+		<string>Flags/Large/new-york-flag-medium</string>
+		<string>Flags/Large/north-carolina-flag-medium</string>
+		<string>Flags/Large/north-dakota-flag-medium</string>
 		<string>Flags/Large/ohio-flag-medium</string>
 		<string>Flags/Large/oklahoma-flag-medium</string>
 		<string>Flags/Large/oregon-flag-medium</string>
 		<string>Flags/Large/pennsylvania-flag-medium</string>
-		<string>Flags/Large/rhode island-flag-medium</string>
-		<string>Flags/Large/south carolina-flag-medium</string>
-		<string>Flags/Large/south dakota-flag-medium</string>
+		<string>Flags/Large/rhode-island-flag-medium</string>
+		<string>Flags/Large/south-carolina-flag-medium</string>
+		<string>Flags/Large/south-dakota-flag-medium</string>
 		<string>Flags/Large/tennessee-flag-medium</string>
 		<string>Flags/Large/texas-flag-medium</string>
 		<string>Flags/Large/utah-flag-medium</string>
 		<string>Flags/Large/vermont-flag-medium</string>
 		<string>Flags/Large/virginia-flag-medium</string>
 		<string>Flags/Large/washington-flag-medium</string>
-		<string>Flags/Large/west virginia-flag-medium</string>
+		<string>Flags/Large/west-virginia-flag-medium</string>
 		<string>Flags/Large/wisconsin-flag-medium</string>
 		<string>Flags/Large/wyoming-flag-medium</string>
 	</array>
@@ -192,26 +191,26 @@
 		<string>Flags/Small/montana-flag-small</string>
 		<string>Flags/Small/nebraska-flag-small</string>
 		<string>Flags/Small/nevada-flag-small</string>
-		<string>Flags/Small/new hampshire-flag-small</string>
-		<string>Flags/Small/new jersey-flag-small</string>
-		<string>Flags/Small/new mexico-flag-small</string>
-		<string>Flags/Small/new york-flag-small</string>
-		<string>Flags/Small/north carolina-flag-small</string>
-		<string>Flags/Small/north dakota-flag-small</string>
+		<string>Flags/Small/new-hampshire-flag-small</string>
+		<string>Flags/Small/new-jersey-flag-small</string>
+		<string>Flags/Small/new-mexico-flag-small</string>
+		<string>Flags/Small/new-york-flag-small</string>
+		<string>Flags/Small/north-carolina-flag-small</string>
+		<string>Flags/Small/north-dakota-flag-small</string>
 		<string>Flags/Small/ohio-flag-small</string>
 		<string>Flags/Small/oklahoma-flag-small</string>
 		<string>Flags/Small/oregon-flag-small</string>
 		<string>Flags/Small/pennsylvania-flag-small</string>
-		<string>Flags/Small/rhode island-flag-small</string>
-		<string>Flags/Small/south carolina-flag-small</string>
-		<string>Flags/Small/south dakota-flag-small</string>
+		<string>Flags/Small/rhode-island-flag-small</string>
+		<string>Flags/Small/south-carolina-flag-small</string>
+		<string>Flags/Small/south-dakota-flag-small</string>
 		<string>Flags/Small/tennessee-flag-small</string>
 		<string>Flags/Small/texas-flag-small</string>
 		<string>Flags/Small/utah-flag-small</string>
 		<string>Flags/Small/vermont-flag-small</string>
 		<string>Flags/Small/virginia-flag-small</string>
 		<string>Flags/Small/washington-flag-small</string>
-		<string>Flags/Small/west virginia-flag-small</string>
+		<string>Flags/Small/west-virginia-flag-small</string>
 		<string>Flags/Small/wisconsin-flag-small</string>
 		<string>Flags/Small/wyoming-flag-small</string>
 	</array>
